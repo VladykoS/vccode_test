@@ -1,0 +1,18 @@
+header {
+  background: #ee4e4e;
+}
+
+footer {
+  background: #0fe97c;
+}
+h1{
+  color: aqua;
+}
+body {
+  font-size: 20px;
+  background: rgb(136, 3, 136);
+}
+
+body div {
+  font-size: 10px;
+}
